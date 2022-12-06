@@ -1,0 +1,9 @@
+------------------
+Evidence pojistenych
+------------------
+
+Vyberte si akci
+1: Pridat noveho pojistence do databaze
+2: Zobrazit vsechny pojistence
+3: Vyhledat pojistence pomoci jmena
+4: Konec
